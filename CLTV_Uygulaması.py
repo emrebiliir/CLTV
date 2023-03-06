@@ -1,7 +1,7 @@
 ####################################################################################
 # CUSTOMER LIFETIME VALUE (Müşteri Yaşam Boyu Değeri)
 
-# Aşağıdaki basamakalarla uUçtan uca CLTV uygulaması gerçekleştireceğim.
+# Aşağıdaki basamakalarla uçtan uca CLTV uygulaması gerçekleştireceğim.
 
 # 1. Veri Hazırlama
 # 2. Average Order Value (average_order_value = total_price / total_transaction)
